@@ -3,3 +3,8 @@ My main interests in Computer Science :
 - Web Developpment
 - - React
 - - NextJS
+- - Redux
+- - MERN Stack Generally
+- Machine Learning
+- Qunatum Computing
+- Computer Graphic
