@@ -1,5 +1,5 @@
 <h1 align="center">Glad that you're in Github profile of<h1>
-  <h2 align="center">Abdelmadjid Benimam</h2> 
+  <h1 align="center">Abdelmadjid Benimam</h1> 
 
   <p align="center" >
     <img align="center" src="https://i.imgur.com/5WA8Hau.png" width="40%" height="40%"/>
