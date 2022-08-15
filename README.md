@@ -1,9 +1,9 @@
 <h1 align="center">Glad that you're in Github profile of<h1>
   <h2 align="center">Abdelmadjid Benimam</h2> 
 
-  <div style="text-align:center">
+  <p align="center" >
     <img align="center" src="https://i.imgur.com/5WA8Hau.png" width="40%" height="40%"/>
-  </div>
+  </p>
   
 
  
