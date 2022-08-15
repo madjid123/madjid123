@@ -1,3 +1,8 @@
+<style>
+  *{
+  background : #ddd;
+  }
+</style>
 <img src="https://i.imgur.com/yO1PgFp.jpeg" height="400px">
 Hi I am Abdelmadjid Benimam,22 year student Second year of master degree in Computer Scince and Currentely a fullstack developper.
 My main interests in Computer Science : 
