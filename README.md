@@ -3,9 +3,9 @@
 <h1 align="center">Abdelmadjid Benimam</h1> 
  
 <div style="display: flex; flex-direction: column;">
-     	<a align="center" href="" >
-        	<img align="center" src="https://i.imgur.com/5WA8Hau.png" width="40%" height="50%"/>
-      	</a>
+     	<p align="center" href="" >
+        	<img align="center" src="https://i.imgur.com/5WA8Hau.png" width="50%" height="50%"/>
+      	</p>
   		<h3 style="line-height: 24pt;" align="center">
        		 Hi I am Abdelmadjid Benimam,<br> 22 year master student 
         	in Computer Science <br> Currentely a fullstack developper.
@@ -31,7 +31,10 @@ My main interests in Computer Science :
 </p>
 
 # Github Statistics
+## Activity Graph
+<a href="https://github.com/madjid123/github-readme-activity-graph"><img alt="Abdelmadjid Benimam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madjid123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
-    <a href="https://github.com/madjid123/github-readme-stats"><img alt="Abdelmadjid Benimam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madjid123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/madjid123/github-readme-stats"><img alt="Abdelmadjid Benimam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madjid123&show_icons=true&count_private=true&theme=tokyonightt&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/madjid213/github-readme-stats"><img alt="Abdelmadjid Benimam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madjid123&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <br/>
