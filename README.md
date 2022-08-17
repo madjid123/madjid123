@@ -9,9 +9,11 @@
      </div>
    <div>
      <h3 style="line-height: 34pt;">
-     Hi I am Abdelmadjid Benimam,22 year student Second year of master degree in Computer Science and Currentely a fullstack developper.
-    </div>
+        Hi I am Abdelmadjid Benimam,22 year student Second year of master degree
+        in Computer Science and Currentely a fullstack developper.
      </h3>
+    </div>
+   
  </div>
   
 
