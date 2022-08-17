@@ -17,9 +17,6 @@
 </div>
   
 
- 
-
-
 # My main intrests
 My main interests in Computer Science : 
 - 💻 Web Developpment
@@ -30,3 +27,9 @@ My main interests in Computer Science :
 - 👩‍💻 Machine Learning
 - ⚛ Qunatum Computing
 - 🖥 Computer Graphics
+
+<p align="center">
+    <a href="https://github.com/Brivan-26/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=madjid123&theme=tokyonight&hide_border=true"/>
+    </a>
+</p>
