@@ -18,5 +18,5 @@ My main interests in Computer Science :
 - - Redux
 - - MERN Stack Generally
 - Machine Learning
-- Qunatum Computing
+- ⚛ Qunatum Computing
 - Computer Graphics
