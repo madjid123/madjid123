@@ -2,19 +2,17 @@
 
 <h1 align="center">Abdelmadjid Benimam</h1> 
  
-<div style="display: flex; flex-direction: row;">
-   
+<div style="display: none; flex-direction: column;">
 	<div>
      	<p align="center" >
-        	<img align="center" src="https://i.imgur.com/5WA8Hau.png" width="100%" height="100%"/>
+        	<img align="center" src="https://i.imgur.com/5WA8Hau.png" width="50%" height="50%"/>
       	</p>
- 	</div>
-    
+ 	</div> 
  	<div>
-  		<p style="line-height: 24pt;">
-       		 Hi I am Abdelmadjid Benimam,22 year student Second year of master degree
-        	in Computer Science and Currentely a fullstack developper.
-  		</p>
+  		<h3 style="line-height: 24pt;" align="center">
+       		 Hi I am Abdelmadjid Benimam,<br> 22 year master student 
+        	in Computer Science <br> Currentely a fullstack developper.
+  		</h3>
  	</div>
 </div>
   
