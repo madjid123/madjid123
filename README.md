@@ -32,7 +32,7 @@ My main interests in Computer Science :
 
 # Github Statistics
 ## Activity Graph
-<a href="https://github.com/madjid123/github-readme-activity-graph"><img alt="Abdelmadjid Benimam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madjid123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/madjid123/github-readme-activity-graph"><img alt="Abdelmadjid Benimam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madjid123&bg_color=1a1b27&color=be90f2&line=df2d00&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
     <a href="https://github.com/madjid123/github-readme-stats"><img alt="Abdelmadjid Benimam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madjid123&show_icons=true&count_private=true&theme=tokyonightt&hide_border=true&bg_color=0D1117" /></a>
