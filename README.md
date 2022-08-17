@@ -1,7 +1,6 @@
-<h1 align="center">Glad that you're in Github profile of<h1>
-  <h1 align="center">Abdelmadjid Benimam</h1> 
 
- <div style="display:flex;gap:20px;">
+ <h1 align="center">Abdelmadjid Benimam</h1> 
+ <div style="display:flex;gap:20px;flex-direction:row;">
    <div>
       <p align="center" >
         <img align="center" src="https://i.imgur.com/5WA8Hau.png" width="40%" height="40%"/>
