@@ -13,7 +13,7 @@ Hi I am Abdelmadjid Benimam,22 year student Second year of master degree in Comp
 # My main intrests
 My main interests in Computer Science : 
 - Web Developpment
-- - React
+- -  React
 - - NextJS
 - - Redux
 - - MERN Stack Generally
