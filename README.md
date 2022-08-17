@@ -8,8 +8,10 @@
       </p>
      </div>
    <div>
+     <h3 style="line-height: 26pt;">
      Hi I am Abdelmadjid Benimam,22 year student Second year of master degree in Computer Scince and Currentely a fullstack developper.
     </div>
+     </h3>
  </div>
   
 
