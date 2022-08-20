@@ -20,20 +20,20 @@ My main interests in Computer Science :
 - 🖥 Computer Graphics
 
 <p align="center">
-    <a href="https://github.com/Brivan-26/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=madjid123&theme=tokyonight&hide_border=true"/>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelmadjid Benimam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=madjid123&theme=tokyonight&hide_border=true"/>
     </a>
 </p>
 
 # Github Statistics
 ## Activity Graph
-<a href="https://github.com/madjid123/github-readme-activity-graph"><img alt="Abdelmadjid Benimam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madjid123&bg_color=1a1b27&color=be90f2&line=df2d00&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Abdelmadjid Benimam's Activity Graph in the last month" src="https://activity-graph.herokuapp.com/graph?username=madjid123&bg_color=1a1b27&color=be90f2&line=df2d00&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
 
 ## Github stats
-<a href="https://github.com/madjid123/github-readme-stats"><img alt="Abdelmadjid Benimam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madjid123&show_icons=true&count_private=true&theme=tokyonightt&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Abdelmadjid Benimam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madjid123&show_icons=true&count_private=true&theme=tokyonightt&hide_border=true&bg_color=0D1117" /></a>
 ## Top languages
-<a href="https://github.com/madjid213/github-readme-stats"><img alt="Abdelmadjid Benimam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madjid123&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Abdelmadjid Benimam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madjid123&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <br/>
