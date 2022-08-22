@@ -3,10 +3,16 @@
 <p href="" align="center" >
 <img align="center" src="https://i.imgur.com/kYHJAYg.png" width="50%" height="50%"/>
 </p>
-<h3 style="line-height: 24pt;" align="top">
-       		 Hi I am Abdelmadjid Benimam,<br> 22 year master student 
-        	in Computer Science <br> Currentely a fullstack developper.
-</h3>
+
+- Hi I am Abdelmadjid Benimam 
+- 💻 22 year master student in Computer Science.
+- 🖥 Currentely a fullstack developper.
+- Learning 
+ - Qunatum Computing
+
+
+
+
 
 # My main intrests
 My main interests in Computer Science : 
