@@ -9,7 +9,7 @@
 - 🖥 Currentely a fullstack developper.
 - Learning 
  - Qunatum Computing
-
+ - Machine Learning
 
 
 
