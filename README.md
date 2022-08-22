@@ -5,11 +5,12 @@
 </p>
 
 - Hi I am Abdelmadjid Benimam 
-- 💻 22 year master student in Computer Science.
+- 22 year master student in Computer Science.
 - 🖥 Currentely a fullstack developper.
 - Learning 
   - Qunatum Computing
   - Machine Learning
+  - Web Development
 
 
 
