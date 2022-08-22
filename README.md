@@ -8,8 +8,8 @@
 - 💻 22 year master student in Computer Science.
 - 🖥 Currentely a fullstack developper.
 - Learning 
- - Qunatum Computing
- - Machine Learning
+  - Qunatum Computing
+  - Machine Learning
 
 
 
