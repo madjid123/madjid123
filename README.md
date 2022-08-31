@@ -1,7 +1,7 @@
 <h1 align="center">Abdelmadjid Benimam</h1> 
  
 <p href="" align="center" >
-<img align="center" src="https://i.imgur.com/kYHJAYg.png" width="50%" height="50%"/>
+<img align="center" src="https://i.imgur.com/FnWILgZ.png" width="50%" height="50%"/>
 </p>
 
 - Hi I am Abdelmadjid Benimam 
