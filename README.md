@@ -45,7 +45,7 @@ My main interests in Computer Science :
 
 
 ## Github stats
-<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Abdelmadjid Benimam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madjid123&show_icons=true&count_private=true&theme=tokyonightt&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Abdelmadjid Benimam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madjid123&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
 ## Top languages
-<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Abdelmadjid Benimam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madjid123&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Abdelmadjid Benimam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madjid123&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
   <br/>
