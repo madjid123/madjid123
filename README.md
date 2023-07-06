@@ -8,10 +8,8 @@
 - 22 year master student in Computer Science.
 - 🖥 Currentely a fullstack developper.
 - Learning 
-  - Qunatum Computing
   - Machine Learning
   - Web Development
-
 
 
 
@@ -26,6 +24,10 @@ My main interests in Computer Science :
     - Redux
     - MERN Stack Generally
 - 👩‍💻 Machine Learning
+    - Computer Vision
+    - Deep Learning
+    - Reinforcement learning
+    - Natural language processing
 - ⚛ Qunatum Computing
 - 🖥 Computer Graphics
 
