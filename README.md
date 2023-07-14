@@ -1,9 +1,9 @@
 <h1 align="center">Abdelmadjid Benimam</h1> 
  
-<p href="" align="center" >
-<img align="center" src="https://i.imgur.com/FnWILgZ.png" width="50%" height="50%"/>
+<!--<p href="" align="center" >
+ <img align="center" src="https://i.imgur.com/FnWILgZ.png" width="50%" height="50%"/>
 </p>
-
+-->
 - Hi I am Abdelmadjid Benimam 
 - 22 year master student in Computer Science.
 - 🖥 Currentely a fullstack developper.
