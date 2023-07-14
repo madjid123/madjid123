@@ -4,8 +4,8 @@
  <img align="center" src="https://i.imgur.com/FnWILgZ.png" width="50%" height="50%"/>
 </p>
 -->
-- Hi I am Abdelmadjid Benimam 
-- 22 year master student in Computer Science.
+- Hi👋  I am Abdelmadjid Benimam 
+- Master graduate in Computer Science.
 - 🖥 Currentely a fullstack developper.
 - Learning 
   - Machine Learning
@@ -14,7 +14,7 @@
 
 
 
-
+<hr/>
 
 # My main intrests
 My main interests in Computer Science : 
